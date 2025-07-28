@@ -1,10 +1,11 @@
 # ApiniLabs
 
-🙋‍♀️ A short introduction - what is your organization all about?
+ApiniLabs will revolutionize laboratory software by offering intelligent modular components, paving the way for a new era of lab solutions.
+
 
 ## LabFREED Contribution Guidelines
 
-###🪲Report Issues With the Specification
+### 🪲Report Issues With the Specification
 Issues with the current specifications (typos, minor clarifications) should be reported in the repository of building block, here on GitHub.
 [PAC-ID](https://github.com/ApiniLabs/PAC-ID/issues)
 [PAC-ID Resolver](https://github.com/ApiniLabs/PAC-ID-Resolver/issues)
@@ -29,11 +30,3 @@ Should be discussed on the [LabFREED discord server](https://discord.com/channel
 [PAC-CAT](https://github.com/ApiniLabs/PAC-CAT/issues)
 [Attributes](https://github.com/ApiniLabs/PAC-Attributes)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
