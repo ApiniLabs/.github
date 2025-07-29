@@ -1,6 +1,5 @@
-# ApiniLabs
-
-Many concerns of software for laboratories should be solved on a per lab instead of a per vendor base, which is why ApiniLabs is contributing building blocks needed for its own product to the LabFreed initiative.
+# LabFREED Building Blocks by ApiniLabs
+Many concerns of software for laboratories should be solved on a per lab instead of a per vendor base, which is why ApiniLabs is contributing building blocks needed for its own product to the LabFREED initiative.
 
 # Published Building Blocks
 
@@ -10,11 +9,12 @@ Many concerns of software for laboratories should be solved on a per lab instead
 
 [TREX](https://github.com/ApiniLabs/T-REX)
 
+
 ## LabFREED Contribution Guidelines
 
-### 🪲Report Issues With the Specification
+### 🪲Issues With the Specification
 Issues with the current specifications (typos, minor clarifications) should be reported in the repository of building block, here on GitHub.
-
+If you want you can make the changes yourself and submit a pull request.
 
 ### Conceptual Discussions About the Evolution of LabFREED
 - aspects which are not covered by the specifications yet
@@ -34,4 +34,4 @@ Should be discussed on the [LabFREED discord server](https://discord.com/channel
 <!--
 [PAC-CAT](https://github.com/ApiniLabs/PAC-CAT)
 [Attributes](https://github.com/ApiniLabs/PAC-Attributes)
-
+-->
