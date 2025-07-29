@@ -16,7 +16,7 @@ Many concerns of software for laboratories should be solved on a per lab instead
 Issues with the current specifications (typos, minor clarifications) should be reported in the repository of building block, here on GitHub.
 If you want you can make the changes yourself and submit a pull request.
 
-### Conceptual Discussions About the Evolution of LabFREED
+### 🔭 Conceptual Discussions About the Evolution of LabFREED
 - aspects which are not covered by the specifications yet
 - ideas for new building blocks
 Should be discussed on the [LabFREED discord server](https://discord.com/channels/1310610381986861106/1397855572124110848)
